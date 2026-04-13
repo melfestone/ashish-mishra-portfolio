@@ -15,14 +15,14 @@ const ContactSection = () => {
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-10">
           <a
-            href="mailto:hello@example.com"
+            href="mailto:mishraashish966@gmail.com"
             className="inline-flex items-center gap-2 bg-primary text-primary-foreground px-7 py-3.5 rounded-lg font-semibold text-sm hover:opacity-90 transition-opacity font-body"
           >
             <Mail size={16} />
-            hello@example.com
+            mishraashish966@gmail.com
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/ashish-mishra31/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 border border-border text-foreground px-7 py-3.5 rounded-lg font-semibold text-sm hover:bg-secondary transition-colors font-body"
